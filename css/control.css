@@ -1,0 +1,24 @@
+
+
+.left{
+    line-height: 5;
+    text-align: left;
+    float: left;
+}
+
+
+.right{
+    line-height: 5;
+    text-align: right;
+}
+
+.center{
+    line-height: 5;
+    text-align: center;
+}
+
+.button{
+    width: 110px;
+    height: 80px;
+    font-size: 140%;
+}
