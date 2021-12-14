@@ -86,3 +86,8 @@ function bright_high(){
     }
     return 0;
 }
+
+function Camera(){
+    <input type="file" accept="image/*;capture=camera"></input>
+    return 0;
+}
